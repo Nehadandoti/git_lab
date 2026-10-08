@@ -1,3 +1,3 @@
 # git_lab
-this is my git repository (br)
+this is my git repository. (cr)
 documenting my rpository
